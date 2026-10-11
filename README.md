@@ -23,13 +23,6 @@ This repository currently includes:
 - CSV exports suitable for Power BI import,
 - documentation for data provenance, Power BI usage, and presentation guidance.
 
-## Source attribution
-
-This project is adapted from the original repository by Nithin Chandra:
-
-- https://github.com/bnithinchandra-dotcom/PowerBI-Stock-Market-Analytics
-
-The original repository is used as a learning and reference base. No original author code has been removed without preserving the underlying stock-market analytics workflow.
 
 ## Business intelligence features
 
