@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
+.env.*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Local data snapshots
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Keep project data but ignore generated bulk files when necessary
+# data/*.csv
+
+# Power BI and large exports
+*.pbix
+*.pbit
+
+# Secrets and tokens
+**/*token*
+**/*secret*
+**/*.key
